@@ -1,4 +1,4 @@
-# Swipe View
+# Swipe View di Aplikasi Android
 Swipe Cardview <br>
 Semoga bermanfaat <br>
 
