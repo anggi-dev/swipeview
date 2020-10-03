@@ -3,6 +3,7 @@ Swipe Cardview <br>
 Semoga bermanfaat <br>
 
 Cek alur kodingan di wiki
+https://github.com/angginuraziz/swipeview/wiki
 
 <br>
 <br>
